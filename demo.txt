@@ -1,1 +1,1 @@
-This is test command.
+This is test command2.
